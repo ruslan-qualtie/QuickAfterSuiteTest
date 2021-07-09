@@ -1,0 +1,6 @@
+framework module Pods_QuickAfterSuiteTest_QuickAfterSuiteTestUITests {
+  umbrella header "Pods-QuickAfterSuiteTest-QuickAfterSuiteTestUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

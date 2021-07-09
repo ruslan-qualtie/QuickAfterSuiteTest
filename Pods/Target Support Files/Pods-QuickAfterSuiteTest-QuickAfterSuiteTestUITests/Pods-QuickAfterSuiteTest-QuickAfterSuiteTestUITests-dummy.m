@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_QuickAfterSuiteTest_QuickAfterSuiteTestUITests : NSObject
+@end
+@implementation PodsDummy_Pods_QuickAfterSuiteTest_QuickAfterSuiteTestUITests
+@end
